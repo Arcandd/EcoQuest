@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "734318549553",
+    "firebase_url": "https://eco-quest-8c27c-default-rtdb.firebaseio.com",
+    "project_id": "eco-quest-8c27c",
+    "storage_bucket": "eco-quest-8c27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734318549553:android:b20db5103f182b88955310",
+        "android_client_info": {
+          "package_name": "com.example.ecoquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxS1ZXP8uERrdJ-b1Wv8BSt8LOdt08VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734318549553:android:067c7e5dcf919d51955310",
+        "android_client_info": {
+          "package_name": "com.example.ecoquestv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxS1ZXP8uERrdJ-b1Wv8BSt8LOdt08VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734318549553:android:267fcfbf132d89db955310",
+        "android_client_info": {
+          "package_name": "com.example.softwareengineering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxS1ZXP8uERrdJ-b1Wv8BSt8LOdt08VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734318549553:android:047f505b14145b2f955310",
+        "android_client_info": {
+          "package_name": "com.example.temperature"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxS1ZXP8uERrdJ-b1Wv8BSt8LOdt08VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
